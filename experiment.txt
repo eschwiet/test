@@ -1,3 +1,5 @@
 some crazy idea
 
 We added this to test2
+
+adding something in first directory
