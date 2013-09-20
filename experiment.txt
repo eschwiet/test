@@ -3,3 +3,5 @@ some crazy idea
 We added this to test2
 
 adding something in first directory
+here's a different change in test2
+
